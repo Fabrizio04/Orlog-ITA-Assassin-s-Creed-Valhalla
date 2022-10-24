@@ -1,7 +1,16 @@
 # Orlog-ITA-Assassin-s-Creed-Valhalla
 ## In questo Repository sono disponibili i manuali del gioco da tavolo di Orlog tratto da Assassin's Creed Valhalla, liberamente tradotte in Italiano per tutti i Fan :)
 
+## Download
 
+- [Orlog - Lista completa Favori Divini (DOCX)](https://mega.nz/file/LZcwVLLL#m-0OW7WHlf7v0jVp1LTB54q52zY9FIkQ0i84rVujlew)
+- [Orlog - Manuale istruzioni (DOCX)](https://mega.nz/file/jEkzlaKb#A5HWtvfuT2TzOPyoRKHWjRlwZxFeebU6NebrFeQPo2Q)
+- [Orlog - MANUALE ITA (FULL COLOR PDF)](https://mega.nz/file/iB90UQKB#RpyyCfK7yZUXHh-x-o_JtNpUuQnRcg8Ckgux2YhA9zo)
+- [Orlog - MANUALE ENG (FULL COLOR PDF)](https://mega.nz/file/SE1nkYqS#PvoowwCaSKcusvxjmLc64yIm3v_0oWW8WKEjewoLdkk)
+
+## Pagina Wiki (ENG)
+
+- [https://assassinscreed.fandom.com/wiki/Orlog](https://assassinscreed.fandom.com/wiki/Orlog)
 
 ## Sommario
 - [Introduzione](#introduzione)
