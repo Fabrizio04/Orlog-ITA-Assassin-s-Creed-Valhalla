@@ -1,8 +1,22 @@
 # Orlog-ITA-Assassin-s-Creed-Valhalla
 ## In questo Repository sono disponibili i manuali del gioco da tavolo di Orlog tratto da Assassin's Creed Valhalla, liberamente tradotte in Italiano per tutti i Fan :)
 
+## Download risorse
+
+- 
+
 ## Sommario
+- [Introduzione](#introduzione)
+- [Svolgimento](#svolgimento)
+- [Effetti base dei dadi](#effetti-base-dei-dadi)
+- [Gettoni dei Favori Divini](#gettoni-dei-favori-divini)
 - [Carte Dei Favori Divini](#carte-dei-favori-divini)
+  - [Schema dettaglio](#schema-dettaglio)
+  - [Lista completa](#lista-completa)
+- [Modalità di Gioco](#modalità-di-gioco)
+  - [Modalità Principiante](#modalità-principiante)
+  - [Modalità Casuale](#modalità-casuale)
+  - [Modalità Esperto](#modalità-esperto)
 
 ### Introduzione
 
