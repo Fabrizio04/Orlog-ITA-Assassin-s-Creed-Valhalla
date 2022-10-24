@@ -71,6 +71,12 @@ Durante la fase del Favore Divino, i giocatori possono sceglierne uno tra i 3 se
 
 ### Carte dei Favori Divini
 
+#### Schema dettaglio
+
+<img src="https://i.ibb.co/5BsRSZd/Card-Orlog.jpg">
+
+#### Lista completa
+
 | Carta | Nome originale | Traduzione | Descrizione |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <img src="https://static.wikia.nocookie.net/assassinscreed/images/6/67/ACV_Orlog_Var.png" width="150" height="250"> | VAR’S BOND  | Legame di Var | Ogni $\color{orange}{⌘}$ speso dall’avversario ti cura.<br><br>Priorità: 1<br><br>10 $\color{orange}{⌘}$ +1 salute per ogni $\color{orange}{⌘}$<br>14 $\color{orange}{⌘}$ +2 salute per ogni $\color{orange}{⌘}$<br>18 $\color{orange}{⌘}$ +3 salute per ogni $\color{orange}{⌘}$ |
