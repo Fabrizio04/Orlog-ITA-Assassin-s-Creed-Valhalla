@@ -1,6 +1,56 @@
 # Orlog-ITA-Assassin-s-Creed-Valhalla
 ## In questo Repository sono disponibili i manuali del gioco da tavolo di Orlog tratto da Assassin's Creed Valhalla, liberamente tradotte in Italiano per tutti i Fan :)
 
+## Sommario
+- [Carte Dei Favori Divini](#carte-dei-favori-divini)
+
+### Introduzione
+
+- Età: 8+
+- Giocatori: 2
+- Tempo (minuti): 15-20
+
+ORLOG è un gioco dove 2 giocatori duellano tirando i Dadi e invocando Favori Divini.
+
+Il primo giocatore a ridurre la Vita del proprio Avversario a 0 vince.
+
+Per il set up/preparazione del gioco, fare riferimento alla sezione Modalità di Gioco.
+
+Nella Confezione del Gioco sono presenti:
+- 50 Gettoni per Favori Divini
+- 1 Moneta da Gioco
+- 32 Pietre Conta Vita (2 bonus)
+- 2 set da 20 Carte di Favori Divini
+- 2 set di Dadi in acrilico
+- 2 Ciotole di plastica
+
+### Svolgimento
+
+Lancia una moneta per determinare quale giocatore inizia per primo.<br>
+Il gioco è suddiviso in turni, ognuno composto da 3 fasi:
+
+**1. Fase di Lancio**
+   - All’inizio di ogni turno, tu e il tuo avversario vi alternate tra chi lancia i dadi per primo.
+   - Puoi effettuare fino a 3 lanci. Per ogni lancio puoi scegliere quali dadi vuoi prendere e quali vuoi lanciare nuovamente (al terzo si prenderanno tutti i rimanenti)
+
+**2. Fase del Favore Divino**
+   - I giocatori possono scegliere di invocare un Favore Divino per poi rivelarsi l’un latro la scelta effettuata.
+   - I Favori Divini vengono invocato in ordine di Priorità (vedere la lista completa dei F.D.)
+   - I Favori Divini con la stessa Priorità vengono applicati secondo l’ordine di turno dei Giocatori.
+   - Quando un Favore Divino viene invocato, la sua offerta (gettoni $\color{orange}{⌘}$ è presentata e il suo effetto viene concesso. La maggior parte dei Favori Divini viene invocata dopo che entrambi i giocatori li hanno scelti e prima della Fase di Risoluzione.
+   - **NOTA (CASI DI ECCEZIONE):** Se viene espressamente indicato nella descrizione dell’effetto,
+i Favori Divini possono essere invocati dopo la Fase di Risoluzione. Se un giocatore non ha abbastanza gettoni per l'offerta quando viene invocato il Favore Divino scelto, il suo effetto non viene concesso.
+
+**3. Fase di Risoluzione**
+
+I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro: viene inflitto il danno oppure bloccato, vengono guadagnati i gettoni oppure rubati. I turni di gioco proseguono finché un giocatore non riduce la salute dell’altro a 0.<br>Di seguito l’ordine dello svolgimento della Fase di Risoluzione:
+
+1.	Per ogni dado con <img src="https://static.wikia.nocookie.net/assassinscreed/images/e/ef/ACV-GodFavorOrlog.png" width="30" height="30"> il giocatore ottiene 1 gettone $\color{orange}{⌘}$
+2.	I dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/5/5f/ACV-AxeOrlog.png" width="30" height="30"> e <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="30" height="30"> sono risolti e il loro danno sbloccato viene applicato.<br>Per ogni turno, il giocatore che ha lanciato i dadi per primo attacca.
+3.	I dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="30" height="30"> rubano 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili)
+
+**Se nessun giocatore alla fine della fase esaurisce completamente la vita, viene invertito l’ordine e si gioca un altro turno finché uno dei 2 rimane senza pietre conta vita.**
+
 ### Carte dei Favori Divini
 
 | Carta | Nome originale | Traduzione | Descrizione |
