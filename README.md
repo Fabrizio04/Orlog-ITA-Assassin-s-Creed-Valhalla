@@ -61,6 +61,14 @@ I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro
 | Difesa a Distanza | <img src="https://static.wikia.nocookie.net/assassinscreed/images/b/b0/ACV-ShieldOrlog.png" width="50" height="50"> | Blocca 1 <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="25" height="25"> |
 | Riflesso | <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="50" height="50"> | Ruba 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili) |
 
+### Gettoni dei Favori Divini
+
+Come già illustrato, le facce dei dadi con la rifinitura dorata (ad esempio <img src="https://i.ibb.co/txdSnbC/Dado.png" width="25" height="25">) fanno ottenere dei gettoni $\color{orange}{⌘}$ durante la Fase di Risoluzione.
+
+Puoi usare anche i dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="25" height="25"> per rubare gettoni all’avversario sempre durante la Fase di Risoluzione.
+
+Durante la fase del Favore Divino, i giocatori possono sceglierne uno tra i 3 selezionati. Quindi, in ordine di Priorità, i giocatori offrono i propri gettoni $\color{orange}{⌘}$ per invocare il Favore Divino e applicarne l’effetto.
+
 ### Carte dei Favori Divini
 
 | Carta | Nome originale | Traduzione | Descrizione |
