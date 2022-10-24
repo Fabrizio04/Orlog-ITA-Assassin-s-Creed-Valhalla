@@ -1,9 +1,7 @@
 # Orlog-ITA-Assassin-s-Creed-Valhalla
 ## In questo Repository sono disponibili i manuali del gioco da tavolo di Orlog tratto da Assassin's Creed Valhalla, liberamente tradotte in Italiano per tutti i Fan :)
 
-## Download risorse
 
-- 
 
 ## Sommario
 - [Introduzione](#introduzione)
