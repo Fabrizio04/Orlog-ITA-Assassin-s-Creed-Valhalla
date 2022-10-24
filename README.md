@@ -99,3 +99,46 @@ Durante la fase del Favore Divino, i giocatori possono sceglierne uno tra i 3 se
 | <img src="https://static.wikia.nocookie.net/assassinscreed/images/d/df/ACV_Orlog_Skuld.png" width="150" height="250"> | SKULD’S CLAIM | Pretesa di Skuld | Distruggi $\color{orange}{⌘}$ dell’avversario per ogni dado<br>su cui è uscito <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="25" height="25"><br><br>Priorità: 3<br><br>4 $\color{orange}{⌘}$ -2 $\color{orange}{⌘}$ per dado<br>6 $\color{orange}{⌘}$ -3 $\color{orange}{⌘}$ per dado<br>8 $\color{orange}{⌘}$ -4 $\color{orange}{⌘}$ per dado |
 | <img src="https://static.wikia.nocookie.net/assassinscreed/images/f/f2/ACV_Orlog_Frigg.png" width="150" height="250"> | FRIGG’S SIGHT | Vista di Frigg | Lancia di nuovo qualsiasi dado dell’avversario.<br><br>Priorità: 2<br><br>2 $\color{orange}{⌘}$ Lancia di nuovo 2 dadi<br>3 $\color{orange}{⌘}$ Lancia di nuovo 3 dadi<br>4 $\color{orange}{⌘}$ Lancia di nuovo 4 dadi |
 | <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/21/ACV_Orlog_Loki.png" width="150" height="250"> | LOKI’S TRICK | Trucco di Loki | Bandisci i dadi dell’avversario per il turno.<br><br>Priorità: 2<br><br>&nbsp;3 $\color{orange}{⌘}$ Bandisci 1 dado<br>6 $\color{orange}{⌘}$ Bandisci 2 dadi<br>9 $\color{orange}{⌘}$ Bandisci 3 dadi |
+
+### Modalità di Gioco
+
+Grazie alle 3 modalità di Orlog gioco dei dadi, potrai impostare ogni partita in modo divertente in pochi minuti!<br>Che tu sia un Vichingo alle prime armi o un Maestro Guerriero, ogni partita sarà emozionante, personalizzabile e ti immergerà nel mondo vichingo di Assassin’s Creed® Valhalla!
+
+#### Modalità Principiante
+
+Vichingo Principiante: perfetto per i nuovi giocatori che vogliono entrare in azione più rapidamente possibile.
+
+PREPARAZIONE DEL GIOCO:
+- Ogni giocatore ha 6 dadi.
+- I giocatori iniziano con 15 pietre conta vita ciascuno.
+- Entrambi i giocatori usano i seguenti Favori Divini:
+- Colpo di Thor, Ringiovanimento di Idun e Sacrificio di Odino
+
+VAI ALLA SEZIONE SVOLGIMENTO PER INIZIARE UNA PARTITA
+
+#### Modalità Casuale
+
+Esploratore Esperto: perfetto per i giocatori che hanno acquisito esperienza giocando a Orlog in Assassin's Creed® Valhalla: è identico alla versione virtuale.
+
+PREPARAZIONE DEL GIOCO:
+- Ogni giocatore ha 6 dadi.
+- I giocatori iniziano con 15 pietre conta vita ciascuno.
+- Ogni giocatore sceglie 3 Favori Divini tra i 20 disponibili ciascuno.
+
+VAI ALLA SEZIONE SVOLGIMENTO PER INIZIARE UNA PARTITA
+
+#### Modalità Esperto
+
+Guerriero Magistrale: perfetto per i giocatori sufficientemente abili e ambiziosi da essere incoronati Campioni di Orlog.<br>In questa modalità, è necessario solo 1 set di 20 Favori Divini.<br>Vince il giocatore che batte l’avversario al meglio di 3 partite.
+
+PREPARAZIONE DEL GIOCO:
+- Ogni giocatore ha 6 dadi.
+- I giocatori iniziano con 15 pietre conta vita ciascuno.
+- Lancia una moneta per determinare chi gioca per primo.
+- Il vincitore del lancio della moneta può bandire 1 Favore Divino dal piatto.
+- Il secondo giocatore bandisce 1 favore ed effettua la prima scelta.
+- Ripetere finché entrambi i giocatori hanno tutti e 3 i Favori.
+- Dopo ogni turno, i giocatori scartano i loro Favori e scelgono un nuovo set di 3 dai pezzi rimanenti.
+- Il vincitore di un turno riceve la prima scelta del Favore Divino per quello successivo.
+
+VAI ALLA SEZIONE SVOLGIMENTO PER INIZIARE UNA PARTITA
