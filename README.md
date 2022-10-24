@@ -55,11 +55,11 @@ I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro
 
 | Nome | Dado | Effetto |
 | :------------ | :-----------: | :------------ |
-| Attacco in Mischia | Dado | Infliggi 1 danno |
-| Difesa in Mischia | Dado | Blocca 1 |
-| Attacco a Distanza | Dado | Infliggi 1 danno |
-| Attacco in Mischia | Dado | Blocca 1  |
-| Difesa a Distanza | Dado | Ruba 1 gettone ⌘ all’avversario (se disponibili) |
+| Attacco in Mischia | <img src="https://static.wikia.nocookie.net/assassinscreed/images/5/5f/ACV-AxeOrlog.png" width="50" height="50"> | Infliggi 1 danno |
+| Difesa in Mischia | <img src="https://static.wikia.nocookie.net/assassinscreed/images/6/66/ACV-HelmetOrlog.png" width="50" height="50"> | Blocca 1 <img src="https://static.wikia.nocookie.net/assassinscreed/images/5/5f/ACV-AxeOrlog.png" width="25" height="25"> |
+| Attacco a Distanza | <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="50" height="50"> | Infliggi 1 danno |
+| Difesa a Distanza | <img src="https://static.wikia.nocookie.net/assassinscreed/images/b/b0/ACV-ShieldOrlog.png" width="50" height="50"> | Blocca 1 <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="25" height="25"> |
+| Riflesso | <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="50" height="50"> | Ruba 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili) |
 
 ### Carte dei Favori Divini
 
