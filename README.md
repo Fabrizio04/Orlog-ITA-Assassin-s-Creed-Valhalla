@@ -63,7 +63,7 @@ I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro
 
 ### Gettoni dei Favori Divini
 
-Come già illustrato, le facce dei dadi con la rifinitura dorata (ad esempio <img src="https://i.ibb.co/txdSnbC/Dado.png" width="25" height="25">) fanno ottenere dei gettoni $\color{orange}{⌘}$ durante la Fase di Risoluzione.
+Come già illustrato, le facce dei dadi con la rifinitura dorata fanno ottenere dei gettoni $\color{orange}{⌘}$ durante la Fase di Risoluzione.
 
 Puoi usare anche i dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="25" height="25"> per rubare gettoni all’avversario sempre durante la Fase di Risoluzione.
 
