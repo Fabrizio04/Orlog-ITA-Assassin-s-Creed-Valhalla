@@ -51,6 +51,16 @@ I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro
 
 **Se nessun giocatore alla fine della fase esaurisce completamente la vita, viene invertito l’ordine e si gioca un altro turno finché uno dei 2 rimane senza pietre conta vita.**
 
+### Effetti base dei dadi
+
+| Nome | Dado | Effetto |
+| :------------ | :-----------: | :------------ |
+| Attacco in Mischia | Dado | Infliggi 1 danno |
+| Difesa in Mischia | Dado | Blocca 1 |
+| Attacco a Distanza | Dado | Infliggi 1 danno |
+| Attacco in Mischia | Dado | Blocca 1  |
+| Difesa a Distanza | Dado | Ruba 1 gettone ⌘ all’avversario (se disponibili) |
+
 ### Carte dei Favori Divini
 
 | Carta | Nome originale | Traduzione | Descrizione |
