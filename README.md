@@ -66,7 +66,7 @@ i Favori Divini possono essere invocati dopo la Fase di Risoluzione. Se un gioca
 
 I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro: viene inflitto il danno oppure bloccato, vengono guadagnati i gettoni oppure rubati. I turni di gioco proseguono finché un giocatore non riduce la salute dell’altro a 0.<br>Di seguito l’ordine dello svolgimento della Fase di Risoluzione:
 
-1.	Per ogni dado con <img src="https://static.wikia.nocookie.net/assassinscreed/images/e/ef/ACV-GodFavorOrlog.png" width="30" height="30"> il giocatore ottiene 1 gettone $\color{orange}{⌘}$
+1.	Per ogni dado con <img src="https://multi-installer.it/ac/ACV-GodFavorOrlog.png" width="30" height="30"> il giocatore ottiene 1 gettone $\color{orange}{⌘}$
 2.	I dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/5/5f/ACV-AxeOrlog.png" width="30" height="30"> e <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="30" height="30"> sono risolti e il loro danno sbloccato viene applicato.<br>Per ogni turno, il giocatore che ha lanciato i dadi per primo attacca.
 3.	I dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="30" height="30"> rubano 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili)
 
