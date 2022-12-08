@@ -68,7 +68,7 @@ I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro
 
 1.	Per ogni dado con <img src="https://user-images.githubusercontent.com/22985356/206511202-d24caaad-761b-4244-8c2c-f552695254e1.png" width="30" height="30"> il giocatore ottiene 1 gettone $\color{orange}{⌘}$
 2.	I dadi <img src="https://user-images.githubusercontent.com/22985356/206511701-c823b47f-b229-4326-95be-d63ebfd8742f.png" width="30" height="30"> e <img src="https://user-images.githubusercontent.com/22985356/206511894-7d8f286c-c789-41eb-8aa6-0f4dd094c823.png" width="30" height="30"> sono risolti e il loro danno sbloccato viene applicato.<br>Per ogni turno, il giocatore che ha lanciato i dadi per primo attacca.
-3.	I dadi <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="30" height="30"> rubano 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili)
+3.	I dadi <img src="https://user-images.githubusercontent.com/22985356/206512369-57176f8d-375e-4f6c-8cc8-1f4e4c6cfaf0.png" width="30" height="30"> rubano 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili)
 
 **Se nessun giocatore alla fine della fase esaurisce completamente la vita, viene invertito l’ordine e si gioca un altro turno finché uno dei 2 rimane senza pietre conta vita.**
 
