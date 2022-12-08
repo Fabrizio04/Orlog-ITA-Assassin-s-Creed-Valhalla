@@ -76,11 +76,11 @@ I dadi lanciati da entrambi i giocatori vengono risolti l’uno contro l’altro
 
 | Nome | Dado | Effetto |
 | :------------ | :-----------: | :------------ |
-| Attacco in Mischia | <img src="https://static.wikia.nocookie.net/assassinscreed/images/5/5f/ACV-AxeOrlog.png" width="50" height="50"> | Infliggi 1 danno |
-| Difesa in Mischia | <img src="https://static.wikia.nocookie.net/assassinscreed/images/6/66/ACV-HelmetOrlog.png" width="50" height="50"> | Blocca 1 <img src="https://static.wikia.nocookie.net/assassinscreed/images/5/5f/ACV-AxeOrlog.png" width="25" height="25"> |
-| Attacco a Distanza | <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="50" height="50"> | Infliggi 1 danno |
-| Difesa a Distanza | <img src="https://static.wikia.nocookie.net/assassinscreed/images/b/b0/ACV-ShieldOrlog.png" width="50" height="50"> | Blocca 1 <img src="https://static.wikia.nocookie.net/assassinscreed/images/3/3d/ACV-ArrowOrlog.png" width="25" height="25"> |
-| Riflesso | <img src="https://static.wikia.nocookie.net/assassinscreed/images/2/28/ACV-StealFavorOrlog.png" width="50" height="50"> | Ruba 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili) |
+| Attacco in Mischia | <img src="https://user-images.githubusercontent.com/22985356/206512644-272db225-f341-478c-8cc9-e4fdde6693f8.png" width="50" height="50"> | Infliggi 1 danno |
+| Difesa in Mischia | <img src="https://user-images.githubusercontent.com/22985356/206512779-0f02beb8-45fe-4426-a133-2a1c4b85ac94.png" width="50" height="50"> | Blocca 1 <img src="https://user-images.githubusercontent.com/22985356/206512644-272db225-f341-478c-8cc9-e4fdde6693f8.png" width="25" height="25"> |
+| Attacco a Distanza | <img src="https://user-images.githubusercontent.com/22985356/206511894-7d8f286c-c789-41eb-8aa6-0f4dd094c823.png" width="50" height="50"> | Infliggi 1 danno |
+| Difesa a Distanza | <img src="https://user-images.githubusercontent.com/22985356/206513344-abaa6534-583f-40c3-b406-60ff1db890f6.png" width="50" height="50"> | Blocca 1 <img src="https://user-images.githubusercontent.com/22985356/206511894-7d8f286c-c789-41eb-8aa6-0f4dd094c823.png" width="25" height="25"> |
+| Riflesso | <img src="https://user-images.githubusercontent.com/22985356/206512369-57176f8d-375e-4f6c-8cc8-1f4e4c6cfaf0.png" width="50" height="50"> | Ruba 1 gettone $\color{orange}{⌘}$ all’avversario (se disponibili) |
 
 ### Gettoni dei Favori Divini
 
