@@ -94,7 +94,7 @@ Durante la fase del Favore Divino, i giocatori possono sceglierne uno tra i 3 se
 
 #### Schema dettaglio
 
-<img src="https://i.ibb.co/5BsRSZd/Card-Orlog.jpg">
+<img src="https://github.com/Fabrizio04/Orlog-ITA-Assassin-s-Creed-Valhalla/assets/22985356/1f338bf0-d38f-4f86-bb12-50e1a1e3c2c9">
 
 #### Lista completa
 
